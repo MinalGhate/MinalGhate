@@ -9,8 +9,6 @@ I'm Minal Ghate from India. I'm first year college student doing btech in comput
 
 💬 Ask me about anything.
 
-:zap: Fun Fact: Java got its name from the Java coffee.
-
 
 ## :zap: Languages
 <p align ="center">
