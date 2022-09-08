@@ -1,2 +1,2 @@
-# **<p align ="center">  Hi there 👋  </p>**
+# **<p align ="center">  Hey there 👋, I'm Minal Ghate  </p>**
 
