@@ -1,2 +1,2 @@
-<div style = "text-align:centre"> # Hi there 👋 </div>
+# **<p align ="center">  Hi there 👋  </p>**
 
