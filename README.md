@@ -29,7 +29,10 @@ I'm Minal Ghate from India. I'm first year college student doing btech in comput
   <a href="https://discord.com/users/928537137618501653"><img src="https://user-images.githubusercontent.com/109549049/189164466-9ce0b2e4-9f26-4319-b392-ee5a3af9252e.png" alt="Discord" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="https://twitter.com/GhateMinal"><img src="https://user-images.githubusercontent.com/109549049/189167780-f2591d3a-12b3-4a02-a434-40a61ba720f1.png" alt="twitter" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.hackerrank.com/minalghate21"><img src="https://user-images.githubusercontent.com/109549049/189168539-e135ddb3-e4c7-42d9-be5e-cb17a438f0ae.png" alt="hackerrank" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://t.me/Minal_21"><img src="https://user-images.githubusercontent.com/109549049/189170464-f96d7016-3bcb-434f-a311-e3df9113c2d4.png" alt="telegram" height="40" style="vertical-align:top; margin:4px"></a>
   
+  
+
 
 
 
