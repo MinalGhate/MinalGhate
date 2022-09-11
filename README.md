@@ -31,8 +31,7 @@ I'm Minal Ghate from India. I'm first year college student doing btech in comput
   
  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MinalGhate&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  <img src="https://github-readme-stats.vercel.app/api?username=MinalGhate&show_icons=true&theme=dark"/>
- 
+
   
   
   
