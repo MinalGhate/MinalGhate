@@ -29,6 +29,11 @@ I'm Minal Ghate from India. I'm first year college student doing btech in comput
   <a href="https://www.hackerrank.com/minalghate21"><img src="https://user-images.githubusercontent.com/109549049/189168539-e135ddb3-e4c7-42d9-be5e-cb17a438f0ae.png" alt="hackerrank" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="https://t.me/Minal_21"><img src="https://user-images.githubusercontent.com/109549049/189170464-f96d7016-3bcb-434f-a311-e3df9113c2d4.png" alt="telegram" height="40" style="vertical-align:top; margin:4px"></a>
   
+ 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MinalGhate&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ 
+  
+  
   
 
 
