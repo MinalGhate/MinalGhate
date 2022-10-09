@@ -16,10 +16,11 @@ I'm Minal Ghate from India. I'm first year college student doing btech in comput
   <img src="https://user-images.githubusercontent.com/109549049/189134351-a082bf45-65ae-4ea7-b448-18ec1b04c2f6.png" alt="C" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/109549049/189134372-6628a3f6-2ae6-49c5-ae9e-e20bf04a0723.png" alt="html" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/109549049/189134664-189b2dbb-0729-455a-bccd-990d2999ebd9.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://user-images.githubusercontent.com/109549049/194735962-98f36b33-6e61-40da-ad2f-8de5fe9c3bee.png" alt="kotlin" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/109549049/194736024-621e5ab8-295c-4001-82db-171793cf3a6d.png" alt="kotlin" height="40" style="vertical-align:top; margin:4px">
   </p>
   <br >
   
+
   ## 🌐Find me around the web 
   <p align ="center">
   <a href="https://www.linkedin.com/in/minalghate/"><img src="https://user-images.githubusercontent.com/109549049/189160228-add08ac5-a29c-463f-babb-74f4ea3a5f73.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
