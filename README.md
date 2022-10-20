@@ -39,7 +39,7 @@ I'm Minal Ghate from India. I'm first year college student doing btech in comput
  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MinalGhate&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![@minal_21's Holopin board](https://holopin.me/minal_21)](https://holopin.io/@minal_21
+[![@minal_21's Holopin board](https://holopin.me/minal_21)](https://holopin.io/@minal_21)
   
   
   
