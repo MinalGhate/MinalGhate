@@ -3,7 +3,7 @@
 #  Hi, I'm Minal :wave: 👩‍💻
 I'm Minal Ghate from India. I'm first year college student doing btech in computer science and cyber security.
 
-🌱 I'm currently learning **Java language**
+🌱 I'm currently learning **kotlin language**
 
 📱 I'm looking forward to learn **android development**
 
