@@ -1,7 +1,7 @@
 [![@minal_21's Holopin board](https://holopin.me/minal_21)](https://holopin.io/@minal_21)
 
 #  Hi, I'm Minal :wave: 👩‍💻
-I'm Minal Ghate from India. I'm first year college student doing btech in computer science and cyber security.
+I'm Minal Ghate from India. I'm second year college student doing btech in computer science and cyber security.
 
 🌱 I'm currently learning **kotlin language**
 
