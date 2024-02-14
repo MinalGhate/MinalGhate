@@ -30,15 +30,14 @@ I'm Minal Ghate from India. I'm second year college student doing btech in compu
   <a href="https://twitter.com/GhateMinal"><img src="https://user-images.githubusercontent.com/109549049/189167780-f2591d3a-12b3-4a02-a434-40a61ba720f1.png" alt="twitter" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="https://t.me/Minal_21"><img src="https://user-images.githubusercontent.com/109549049/189170464-f96d7016-3bcb-434f-a311-e3df9113c2d4.png" alt="telegram" height="40" style="vertical-align:top; margin:4px"></a>
   
-  ## 👩‍💻 Coding profiles 
-  <p align ="center">
- <a href="https://www.codechef.com/users/minal_21"><img src="https://user-images.githubusercontent.com/109549049/189163367-b924b9fc-e0ce-4b5c-93a2-8bb14895f1d6.jpg" alt="codechef" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="https://www.hackerrank.com/minalghate21"><img src="https://user-images.githubusercontent.com/109549049/189168539-e135ddb3-e4c7-42d9-be5e-cb17a438f0ae.png" alt="hackerrank" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="https://leetcode.com/MinalGhate/"><img src="https://user-images.githubusercontent.com/109549049/194807619-d8b44740-3982-4b74-89de-9c03374f36f8.png" alt="hackerrank" height="40" style="vertical-align:top; margin:4px"></a>
+  
+    
   <br>
-   
- 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MinalGhate&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+   ## My GitHub Stats
+   ![MinalGhate's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MinalGhate&theme=blue-green&hide_border=true)
+   <br>
+  ![MinalGhate's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinalGhate&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
 
 
   
